@@ -1,0 +1,14 @@
+name: "meansquaredlabs: Bits, Bytes and Neurons"
+description: by Pascal Baur - Data, Analytics and AI Show and Tell
+
+remote_theme: "riggraz/no-style-please"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-feed
+
+url: "https://meansquaredlabs.github.io"
+baseurl: ""
+
+permalink: /:title/
