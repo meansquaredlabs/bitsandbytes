@@ -1,1 +1,1 @@
-# bits-bytes-neurons
+# Home of the The Bits 'n' Bytes blog
