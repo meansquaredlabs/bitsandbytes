@@ -1,7 +1,7 @@
 title: "Bits 'n' Bytes" # name of the site
 author: Pascal Baur # name of site's author
 email: xxx # email of site's author
-url: https://meansquaredlabs.github.io # root address of the site
+url: https://bitsandbytes.github.io # root address of the site
 #baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   Data, Analytics and AI Show and Tell.
