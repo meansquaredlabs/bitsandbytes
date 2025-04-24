@@ -1,4 +1,4 @@
 ---
 layout: home
-title: >_bits 'n' bytes
+title: ">_bits 'n' bytes"
 ---
