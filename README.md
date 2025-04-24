@@ -1,1 +1,1 @@
-# Home of the The Bits 'n' Bytes blog
+# Home of the the Bits 'n' Bytes blog
