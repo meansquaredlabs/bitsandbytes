@@ -9,7 +9,7 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
       
-  - title: About me
+  - title: about me
     url: about
 
   - title: rss
