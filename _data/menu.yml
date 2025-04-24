@@ -6,19 +6,25 @@ entries:
     entries:
       - title: Explore how data, analytics, and AI are transforming the modern enterprise. From foundational concepts to real-world applications, this blog breaks down how organizations are leveraging these technologies to drive smarter decisions and innovation.
 
-  - title: all posts
+  - title: latest posts
     post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
+      
+  - title: posts by category
+    post_list:
+      category: example2
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: example2-archive.html
 
-  - title: post summaries
-    #post_list:
-      #limit: 5
+  - title: archive
+    post_list:
       #show_more: true
-      #show_more_text: See archive...
-      #show_more_url: archive.html
+      show_more_text: See archive...
+      show_more_url: archive.html
   
   - title: About me
     url: about
