@@ -1,4 +1,4 @@
 ---
 layout: home
-title: meansquaredlabs
+title: >_bits 'n' bytes
 ---
