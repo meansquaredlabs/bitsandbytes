@@ -1,6 +1,6 @@
 ---
 layout: home
-title: bits 'n' bytes
+title: bits + bytes
 ---
 
 ---
