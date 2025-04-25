@@ -1,6 +1,6 @@
 ---
 layout: home
-title: bits+bytes
+title: bits + bytes
 ---
 
 ---
