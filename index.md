@@ -11,8 +11,6 @@ Learn how **Data**, **Analytics**, and **AI** are transforming the **modern ente
 
 
 
-```
+
 Sign-up for additional content, working demos and other artifacts!
 {% include contact-form.html %}
-```
-
