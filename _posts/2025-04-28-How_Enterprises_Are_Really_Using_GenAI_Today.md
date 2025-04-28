@@ -5,7 +5,7 @@ category: ai
 
 
 `>_TLDR`
-Enterprises are leveraging GenAI to unlock insights from unstructured data, power conversational assistants, enhance business intelligence, and accelerate code development, driving an average ROI of 41% among early adopters.
+Enterprises are leveraging GenAI to unlock insights from unstructured data, power conversational assistants and enhance business intelligence, driving an average ROI of 41% among early adopters.
 
 ---
 
