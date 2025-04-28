@@ -52,3 +52,7 @@ Companies that not only adopt GenAI but deeply integrate it into their operating
 # The Future Is Just Beginning
 We are only in the early stages of a new, AI-powered industrial revolution. So far, businesses have largely used AI to enhance existing processes — making them faster, cheaper, and more accurate. But the next wave will bring entirely new capabilities, products, and services we haven't even imagined yet.
 Enterprises that embrace GenAI systematically — combining data, strategy, and culture — will be the ones shaping the industries of tomorrow.
+
+---
+Sign-up for more!
+{% include contact-form.html %}
