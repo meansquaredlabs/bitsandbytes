@@ -49,7 +49,7 @@ GenAI is no longer just an experimental trend — it’s delivering measurable r
 	•	AI talent (+76%)
 Companies that not only adopt GenAI but deeply integrate it into their operating models and culture are seeing the greatest rewards. The strongest returns are being achieved by those who invest heavily in robust data foundations, security, and continuous model tuning and governance.
 
-# The Future Is Just Beginning
+# The Start of the New Industrial Revolution
 We are only in the early stages of a new, AI-powered industrial revolution. So far, businesses have largely used AI to enhance existing processes — making them faster, cheaper, and more accurate. But the next wave will bring entirely new capabilities, products, and services we haven't even imagined yet.
 Enterprises that embrace GenAI systematically — combining data, strategy, and culture — will be the ones shaping the industries of tomorrow.
 
