@@ -35,7 +35,7 @@ These vanilla approaches can be further improved with the help of LLMs to genera
 - Document-level metadata: A concise summary of the entire document (including key entities and themes) is prepended to every chunk to provide global context.
 - Chunk-level metadata: Each chunk includes a summary or contextual note derived from the broader document, enriching its standalone meaning and improving retrieval accuracy.
 
-Incorporating LLMs into your chunking strategy to provide richer context for each chunk has shown to lead to even more accurate and relevant retrievals in RAG systems. Despite technological advancements in LLMs, chunking is not going away anytime soon.
+Incorporating LLMs into your chunking strategy to provide richer context has shown to lead to even more accurate and relevant retrievals in RAG systems. Despite technological advancements in LLMs, chunking is not going away anytime soon.
 
 ---
 Sign-up for more!
