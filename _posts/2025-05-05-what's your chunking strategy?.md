@@ -16,10 +16,10 @@ Despite advances in large language models (LLMs) with extended context windows, 
 RAG is a method that combines an LLM  with an external knowledge retrieval system to produce more accurate, grounded, and up-to-date responses. Enterprises leverage such systems for use cases ranging from enterprise search and document processing to business intelligence to name a few - in other words where specific domain knowledge is required. 
 
 A typical RAG pipeline consists of four key steps:
-**1. Parsing documents:** Extracting text from files via file parsers or OCR (Optical Character Recognition) models across different document formats.
-**2. Chunking:** Segmenting text into meaningful units that balance retrieval effectiveness with contextual integrity.
-**3. Retrieval:** Searching and returning the most relevant chunks using advanced techniques such as vector search.
-**4. Generation:** Synthesizing retrieved chunks into a coherent, factually consistent response.
+1. Parsing documents: Extracting text from files via file parsers or OCR (Optical Character Recognition) models across different document formats.
+2. Chunking: Segmenting text into meaningful units that balance retrieval effectiveness with contextual integrity.
+3. Retrieval: Searching and returning the most relevant chunks using advanced techniques such as vector search.
+4. Generation: Synthesizing retrieved chunks into a coherent, factually consistent response.
 
 # Chunking Strategies
 
