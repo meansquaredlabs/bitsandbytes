@@ -21,10 +21,11 @@ A typical RAG pipeline consists of four key steps:
 **3. Retrieval:** Searching and returning the most relevant chunks using advanced techniques such as vector search.
 **4. Generation:** Synthesizing retrieved chunks into a coherent, factually consistent response.
 
+# Chunking Strategies
+
 When LLMs first emerged, they were impressive but limited by short context windows. They could quickly run out of "memory," making them ill-suited for multi-turn conversations or processing large or numerous documents. While modern models now offer extended context windows (some supporting millions of tokens) chunking is still a critical component of an effective RAG system.
 In fact, studies have shown that LLMs often struggle to extract information located in the middle of long contexts. A limitation known as the “Lost in the Middle” phenomenon. Even with long context windows, how we chunk information greatly affects performance.
 
-# Chunking Strategies
 Among the vanilla chunking strategies are:
 **- Recursive chunking:** Splits text at high-level semantic boundaries (e.g., paragraphs using double newlines), then progressively breaks it down further as needed.
 **- Semantic chunking:** Uses sentence embeddings to detect topic shifts; chunks are created where semantic similarity drops significantly.
