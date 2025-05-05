@@ -31,7 +31,7 @@ Among the vanilla chunking strategies are:
 - Semantic chunking: Uses sentence embeddings to detect topic shifts; chunks are created where semantic similarity drops significantly.
 - Markdown-header chunking: Leverages document structure by splitting at markdown headers helping preserve logical context.
 
-These vanilla approaches can be further improved with the help of LLMs to generate additional metadata or so called LLM-enhanced context-based chunking:
+These vanilla approaches can be further improved with the help of LLMs to generate additional metadata or so called LLM-enhanced context-based chunking at both the document and chunk levels:
 - Document-level metadata: A concise summary of the entire document (including key entities and themes) is prepended to every chunk to provide global context.
 - Chunk-level metadata: Each chunk includes a summary or contextual note derived from the broader document, enriching its standalone meaning and improving retrieval accuracy.
 
