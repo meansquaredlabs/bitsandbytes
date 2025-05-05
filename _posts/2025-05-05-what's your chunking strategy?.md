@@ -23,7 +23,7 @@ A typical RAG pipeline consists of four key steps:
 
 # Chunking Strategies
 
-When LLMs first emerged, they were impressive but limited by short context windows. They could quickly run out of "memory," making them ill-suited for multi-turn conversations or processing large or numerous documents. While modern models now offer extended context windows (some supporting millions of tokens) chunking is still a critical component of an effective RAG system.
+When LLMs first emerged, they were impressive but limited by short context windows. They could quickly run out of "memory", making them ill-suited for multi-turn conversations or processing large or numerous documents. While modern models now offer extended context windows (some supporting millions of tokens) chunking is still a critical component of an effective RAG system.
 In fact, studies have shown that LLMs often struggle to extract information located in the middle of long contexts. A limitation known as the “Lost in the Middle” phenomenon. Even with long context windows, how we chunk information greatly affects performance.
 
 Among the vanilla chunking strategies are:
