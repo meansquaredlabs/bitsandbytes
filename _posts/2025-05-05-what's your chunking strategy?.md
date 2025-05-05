@@ -11,7 +11,7 @@ Even RAG systems that are powered by LLMs with long context windows require the 
 
 Despite advances in large language models (LLMs) with extended context windows, selecting the right chunking strategy remains crucial to the quality of LLM-generated responses. Chunking refers to the process of dividing documents into smaller, manageable segments known as “chunks” that can be effectively retrieved and interpreted by LLMs.
 
-# RAG (Retrieval-Augmented Generation)
+# RAG (Retrieval Augmented Generation)
 
 RAG is a method that combines an LLM  with an external knowledge retrieval system to produce more accurate, grounded, and up-to-date responses. Enterprises leverage such systems for use cases ranging from enterprise search and document processing to business intelligence to name a few - in other words where specific domain knowledge is required. 
 
