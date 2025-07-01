@@ -1,5 +1,5 @@
 ---
-title: "We’re going multi modal"
+title: "We’re going multimodal"
 category: ai
 ---
 
