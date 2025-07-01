@@ -36,7 +36,7 @@ Multimodal LLMs offer a compelling alternative: a unified interface that can nat
 Multimodal LLMs represent a powerful shift in data processing. They can process and reason across multiple data types such as text, images and audio, within a single, unified model. This dramatically simplifies architectural complexity, eliminates the need for numerous domain-specific tools, and significantly reduces the time and effort required to build and maintain robust data pipelines.
 Beyond pure speed, these models unlock entirely new forms of analysis. While RAG (Retrieval-Augmented Generation) excels at answering direct questions, multimodal LLMs can orchestrate complex, multi-step reasoning, often by leveraging RAG-like mechanisms to retrieve relevant information across modalities. They can extract facts from lengthy documents, match audio to written records, or connect product images with customer reviews, all within the same integrated pipeline.
 
-# Why It Matters Now
+# Why It Matters
 In today's data-driven world, true insights often emerge from combining diverse sources: a contract, a voice memo, and a support ticket may each hold a crucial piece of the truth. As business intelligence (BI) self-service becomes an accelerating trend, there's growing demand for tools that empower non-technical users to interact directly with complex, unstructured data.
 Multimodal LLMs enable analysts, engineers, and now even business users to work with data as it exists in the real world (messy, varied, and unstructured) while abstracting away much of the underlying complexity.
 This isn't just a technical evolution; it's a foundational shift in how we extract value from information. The future of analytics is multimodal, and it's already here.
