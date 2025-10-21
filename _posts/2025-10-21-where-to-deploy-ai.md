@@ -1,5 +1,5 @@
 ---
-title: "Where should you deploy AI"
+title: "Where should you deploy AI?"
 category: ai
 ---
 
