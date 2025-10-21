@@ -1,5 +1,5 @@
 ---
-title: "From Data Silos to AI Silos - Where should you deploy AI"
+title: "Where should you deploy AI"
 category: ai
 ---
 
