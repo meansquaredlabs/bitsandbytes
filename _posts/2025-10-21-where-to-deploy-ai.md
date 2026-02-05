@@ -38,5 +38,3 @@ Another milestone to achieving a true intelligent layer is to enable different a
 
 
 ---
-Sign-up for more!
-{% include contact-form.html %}
