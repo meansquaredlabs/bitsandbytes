@@ -54,5 +54,3 @@ We are only in the early stages of a new, AI-powered industrial revolution. So f
 Enterprises that embrace GenAI systematically — combining data, strategy, and culture — will be the ones shaping the industries of tomorrow.
 
 ---
-Sign-up for more!
-{% include contact-form.html %}
