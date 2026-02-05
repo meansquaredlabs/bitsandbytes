@@ -42,5 +42,3 @@ Multimodal LLMs enable analysts, engineers, and now even business users to work 
 This isn't just a technical evolution; it's a foundational shift in how we extract value from information. The future of analytics is multimodal, and it's already here.
 
 ---
-Sign-up for more!
-{% include contact-form.html %}
