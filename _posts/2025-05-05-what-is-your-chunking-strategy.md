@@ -39,5 +39,3 @@ These vanilla approaches can be further improved with the help of LLMs to genera
 Incorporating LLMs into your chunking strategy to provide richer context has shown to lead to even more accurate and relevant retrievals in RAG systems. Despite technological advancements in LLMs, chunking is not going away anytime soon.
 
 ---
-Sign-up for more!
-{% include contact-form.html %}
