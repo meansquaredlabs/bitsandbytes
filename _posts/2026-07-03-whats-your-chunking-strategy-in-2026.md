@@ -12,7 +12,7 @@ While extended context windows mitigate some limitations of LLMs, they do not so
 # The Reality of Modern Retrieval-Augmented Generation (RAG)
 The key to enterprise agents delivering value is to ground them on your enterprise data. In other words, agents need context, and one method of providing them the necessary knowledge to answer a question or fulfill a specific task is through RAG. Grounding your agents with RAG pipelines or services as accessible tools is not only important for your agents performance or accuracy, but also their efficiency and to avoid cost spiraling out of control. Enterprise agents can execute long running tasks, spawn subagents and call tools multiple times, which can lead to high costs when scaling across a company. RAG reduces the need for multiple tool calls as the necessary context is served into the context window of the agent.
 
-#The Fallacy of the "Long Context" Window
+# The Fallacy of the "Long Context" Window
 A common misconception is that increasing an LLM's context window (to millions of tokens) eliminates the need for precise chunking. This is false for two reasons:
 - The "Lost in the Middle" Phenomenon: Even with massive windows, models struggle to extract information located in the middle of a long prompt, leading to diminished accuracy.
 - Semantic Fragmentation: When we split documents arbitrarily, we sever the logical links between ideas, creating "contextual drift" that degrades the model's reasoning capability.
