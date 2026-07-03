@@ -33,8 +33,7 @@ To balance the need for detail and context, advanced systems employ Hier-archal 
 # The Agentic Shift: Power, Action, and Economic Governance
 The industry is currently transitioning from static RAG to Agentic RAG. In this new paradigm, AI agents do not just retrieve information; they use tools to perform multi-turn investigations, generate new insights, and even take real-world actions.
 
-However, this autonomy introduces a significant Economic Risk:
-- The Cost of Autonomy: Agents are powerful but can be expensive. Because an agent can run multi-turn processes—going back and forth between querying tools and generating new indices—an inefficient retrieval strategy can lead to infinite loops or excessive API calls, driving up costs exponentially.
+However, this autonomy introduces a significant Economic Risk: The Cost of Autonomy. Agents are powerful but can be expensive. Because an agent can run multi-turn processes—going back and forth between querying tools and generating new indices—an inefficient retrieval strategy can lead to infinite loops or excessive API calls, driving up costs exponentially.
 
 To govern these costs, your retrieval foundation must be perfect.
 
