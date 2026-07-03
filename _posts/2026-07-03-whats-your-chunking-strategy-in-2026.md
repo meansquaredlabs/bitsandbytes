@@ -22,12 +22,9 @@ A common misconception is that increasing an LLM's context window (to millions o
 # Evolving Strategies: From Vanilla Splitting to Knowledge Engineering
 To build resilient systems, we must move beyond simple text splitting and toward a multi-layered strategy of Data Enrichment and Hierarchical Indexing.
 
-1. Structural Segmentation (The Foundation)
-       While basic methods like Recursive Chunking (splitting at paragraphs) or Markdown-header chunking are useful starting points, they are often insufficient for complex enterprise data. Modern systems utilize Semantic Chunking, which uses embeddings to detect topic shifts, ensuring that each unit of information remains conceptually whole.
-2. High-Fidelity Metadata Enrichment (The Intelligence Layer)
-A critical advancement in retrieval accuracy is the move from "standalone chunks" to "enriched segments." By prepending Document-Level Metadata to every chunk—such as Company Name, Filing Date, or Form Type—we provide a global context that follows the data wherever it goes. This ensures that even a small segment of text retains its identity (e.g., knowing a specific revenue figure belongs to Company X in Q3 2024), which profoundly increases retrieval precision.
-3. Hierarchical (Parent-Child) Retrieval
-To balance the need for detail and context, advanced systems employ Hier-archal Indexing. This involves storing granular "Child" units for precise search, which then point back to broader "Parent" units (summaries or full sections). This allows the system to find a specific fact while still providing the LLM with the necessary structural narrative.
+1. Structural Segmentation (The Foundation) - While basic methods like Recursive Chunking (splitting at paragraphs) or Markdown-header chunking are useful starting points, they are often insufficient for complex enterprise data. Modern systems utilize Semantic Chunking, which uses embeddings to detect topic shifts, ensuring that each unit of information remains conceptually whole.
+2. High-Fidelity Metadata Enrichment (The Intelligence Layer) - A critical advancement in retrieval accuracy is the move from "standalone chunks" to "enriched segments." By prepending Document-Level Metadata to every chunk—such as Company Name, Filing Date, or Form Type—we provide a global context that follows the data wherever it goes. This ensures that even a small segment of text retains its identity (e.g., knowing a specific revenue figure belongs to Company X in Q3 2024), which profoundly increases retrieval precision.
+3. Hierarchical (Parent-Child) Retrieval - To balance the need for detail and context, advanced systems employ Hier-archal Indexing. This involves storing granular "Child" units for precise search, which then point back to broader "Parent" units (summaries or full sections). This allows the system to find a specific fact while still providing the LLM with the necessary structural narrative.
 
 
 # The Agentic Shift: Power, Action, and Economic Governance
